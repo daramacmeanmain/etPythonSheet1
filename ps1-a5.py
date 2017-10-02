@@ -1,3 +1,5 @@
+#unfinished
+
 import random
 
 r = random.randrange(1,10)
